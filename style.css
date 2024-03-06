@@ -772,10 +772,18 @@ span{
     position: none;
     width:90vw ;
     /* right: 0px; */
-    left: 80px;
+    left: 40vw;
     /* border: 2px solid red; */
     
  }
+ 
+ .home{
+   /* background-image: none; */
+    /* background: url('./images/home-image.jpg') no-repeat;
+    background-size:contain;
+    background-position: center; */
+    
+}
     .home-content h1{
         font-size: 5.2rem;
     }
