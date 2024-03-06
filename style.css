@@ -10,6 +10,7 @@
     outline: none;
     scroll-behavior: smooth;
     font-family: "Poppins", sans-serif;
+    overflow-x: hidden;
 }
 
 :root{
@@ -769,16 +770,16 @@ span{
     min-width: 130vw;
    }
    .home-imgHover{
-    position: none;
-    width:90vw ;
+    /* position: none; */
+    width:0vw ;
     /* right: 0px; */
-    left: 40vw;
+    /* left: 40vw; */
     /* border: 2px solid red; */
     
  }
  
  .home{
-   /* background-image: none; */
+   background: none;
     /* background: url('./images/home-image.jpg') no-repeat;
     background-size:contain;
     background-position: center; */
